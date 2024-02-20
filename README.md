@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fcf403&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Raniere;Tenho+20+anos;Sou+Brasileiro;Atualmente+estudo+ADS;Sejam+Bem-vindos!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ranierelp&show_icons=true&count_private=truehide_border=true&title_color=fcf403&icon_color=fcf403&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" />
+<!--   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ranierelp&show_icons=true&count_private=truehide_border=true&title_color=fcf403&icon_color=fcf403&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" /> -->
    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranierelp&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
