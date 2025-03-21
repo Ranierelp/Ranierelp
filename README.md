@@ -17,12 +17,15 @@
  </div>
   <br> </br>
    
+🌵 **Paraibano**
+   
 🎓 **Recém formado em Análise e Desenvolvimento de Sistema**
 
-🔭 **Atualmente estou trabalhando em**: Aprimorar minhas habilidades em desenvolvimento full-stack, com foco em Django, React. Também estou explorando o mundo dos testes automatizados usando Selenium e pytest e estudando inglês para melhorar minha comunicação e expandir minhas oportunidades profissionais.
+🔭 **Atualmente estou trabalhando em**: Aprimorar minhas habilidades em desenvolvimento back-end, com foco em Django. Também estou explorando o mundo dos testes automatizados usando Selenium e pytest e estudando inglês para melhorar minha comunicação e expandir minhas oportunidades profissionais.
 
 🤝 **Estou procurando ajuda com**: Melhores práticas em desenvolvimento de software e otimização de desempenho em aplicativos web. A troca de conhecimentos é sempre bem-vinda!
-  ### Trabalhando atualmente no UniFIP - Centro Universitário de Patos, Paraíba 
+  ### Residente em TI - Tribunal de Justiça do estado de Goiás. 🖥️ 01/2025 - Atual
+  ### Pós Graduação lato sensu - Universidade Federal de Goiás (UFG) 👨🏼‍🎓 01/2025 - Atual
 ### Skills
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
