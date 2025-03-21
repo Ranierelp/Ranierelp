@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fcf403&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Raniere;Tenho+21+anos;Sou+Brasileiro;Recém+formado+em+ADS;Sejam+Bem-vindos!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fcf403&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Raniere;Tenho+22+anos;Sou+Brasileiro;Recém+formado+em+ADS;Sejam+Bem-vindos!+:%29)](https://git.io/typing-svg)
 
 <div align="center"> 
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranierelp&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="width: 500px;">
