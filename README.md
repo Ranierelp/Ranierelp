@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fcf403&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Raniere;Tenho+23+anos;Sou+Brasileiro;Formado+em+ADS;Sejam+Bem-vindos!+:%29)](https://git.io/typing-svg)
 
 <div align="center"> 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranierelp&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="width: 500px;">
-   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   <!-- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranierelp&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" /> -->
 </div>
@@ -17,7 +15,7 @@
  </div>
   <br> </br>
    
-🎓 **Recém formado em Análise e Desenvolvimento de Sistema**
+🎓 **Formado em Análise e Desenvolvimento de Sistema**
 
 🔭 **Atualmente estou trabalhando em**: Aprimorar minhas habilidades em desenvolvimento back-end, com foco em Django. Também estou explorando o mundo dos testes automatizados usando Selenium e pytest e estudando inglês para melhorar minha comunicação e expandir minhas oportunidades profissionais.
 
